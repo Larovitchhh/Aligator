@@ -1,12 +1,12 @@
 [project]
-name = "counter"
-description = "Demonstrates how to use and interact with variables in Clarity by incrementing a 32-bit unsigned integer"
+name = "caracono"
+description = "Demonstrates how to use and interact with variables in Clarity by caracono incrementing a 32-bit unsigned integer"
 authors = []
 telemetry = true
 cache_dir = './.cache'
 
-[contracts.counter]
-path = "contracts/counter.clar"
+[contracts.caracono]
+path = "contracts/caracono.clar"
 clarity_version = 4
 epoch = "latest"
 
