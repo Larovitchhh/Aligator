@@ -1,10 +1,10 @@
-# Using Map Data Structure in Clarity
+# Caracono Using Map Data Structure in Clarity
 
 Demonstrates how to use and interact with "variables" in Clarity by incrementing a 32-bit unsigned integer and an additional Clarity function to retrieve the incremented value.
 
 ## Know your Contract
 
-The [counter.clar](/examples/counter/contracts/counter.clar) contract includes the following functionality.
+https://github.com/Larovitchhh/Aligator/
 
 + `count-up` function increments the designated "32-bit unsigned integer" for the account holder, and that value is wrapped inside the `counters`, which is declared as a `map` data structure in Clarity
 + `get-count (...)` function retrieves the latest count from the `counters` map for a given account holder
